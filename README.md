@@ -60,11 +60,11 @@ Example 4:
 
 Example 5: 
 
-    source packages/install/setup.bash && ros2 launch starvation_examples launch_starvation_examples.launch.py example_number:=4
+    source packages/install/setup.bash && ros2 launch starvation_examples launch_starvation_examples.launch.py example_number:=5
 
 Example 6: 
 
-    source packages/install/setup.bash && ros2 launch starvation_examples launch_starvation_examples.launch.py example_number:=4
+    source packages/install/setup.bash && ros2 launch starvation_examples launch_starvation_examples.launch.py example_number:=6
 
 ### Dev Container
 
